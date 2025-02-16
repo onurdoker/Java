@@ -63,6 +63,23 @@ Heap Memory nedir?
 ```
 
 ```Shell
+Escape karakterler nedir?
+```
+
+```Shell
+Scanner Class nedir?
+```
+
+```Shell
+```
+
+```Shell
+```
+
+```Shell
+```
+
+```Shell
 ```
 
 ```Shell
