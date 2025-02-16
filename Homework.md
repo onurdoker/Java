@@ -58,6 +58,8 @@
 ```
 
 ```Shell
+Stack Memory nedir?
+Heap Memory nedir?
 ```
 
 ```Shell
