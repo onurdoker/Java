@@ -32,7 +32,9 @@ Paket isimleri: kısa net bir şekilde olması gerekir.
 Javada her biten kelime ; ile bitirmek zorundayız.
 ```
 
+## Java Core Information
 ```shell
+Java case sensitive bir dildir. (Küçük büyük harfe duyarlı yüksek seviye bir dildir.)
 ```
 
 ```shell

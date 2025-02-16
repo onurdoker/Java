@@ -1,7 +1,7 @@
 package com.onurdoker._1_part_javatype;
 
 // single comment
-public class _01_JavaTypes {
+public class _01_JavaPsvm {
 
     // psvm
     public static void main(String[] args) {
