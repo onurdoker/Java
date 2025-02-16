@@ -1,6 +1,6 @@
 package com.onurdoker._1_part_javatype;
 
-public class _02_JavaPrimitiveTypes {
+public class _03_JavaPrimitiveTypes {
 
     // psvm
     public static void main(String[] args) {
