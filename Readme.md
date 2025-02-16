@@ -12,6 +12,8 @@ git push -u orijin master
 ```
 
 ## Java Core
+tutorial: [Java Core](https://www.javatpoint.com/java-tutorial)
+tutorial: [Java Core](https://www.w3schools.com/java/default.asp)
 ```shell
 ```
 

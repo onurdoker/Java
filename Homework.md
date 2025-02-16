@@ -1,29 +1,60 @@
-# Ödevler
+# Sorular:
 
 
 ```Shell
-1. Maven nedir?
+- Maven nedir?
 ```
 
 ```Shell
-2. Mavenin avantajları nelerdir?
+- Mavenin avantajları nelerdir?
 ```
 
 ```Shell
-3. Mavenin komutları nelerdir?
+- Mavenin komutları nelerdir?
 ```
 
 ```Shell
-4. pom.xml dosyası nedir?
+- pom.xml dosyası nedir?
 ```
 
 ```Shell
+- Java nedir?
 ```
 
 ```Shell
+- Java özelikleri nedir?
 ```
 
 ```Shell
+- JDK nedir?
+```
+
+```Shell
+- JRE nedir?
+```
+
+```Shell
+- JVM nedir?
+```
+
+```Shell
+- Compiler nedir?
+```
+
+```Shell
+- Interpreter nedir? 
+```
+
+```Shell
+- Data türleri nedir?
+```
+
+```Shell
+- primitive type nedir?
+```
+
+```Shell
+- wrapper type nedir?
 ```
 
 ```Shell
