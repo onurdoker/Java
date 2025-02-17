@@ -1,12 +1,13 @@
 # Sorular:
 
 
-##- Maven nedir?
+## Maven nedir?
 ```Shell
 ```
 Maven, Java projelerini oluşturmak, yönetmek ve otomatikleştirmek için kullanılan bir build automation (inşa otomasyonu) aracıdır. Apache tarafından geliştirilmiştir ve özellikle Java projelerinde bağımlılık yönetimi, derleme, test etme ve dağıtım süreçlerini kolaylaştırır. Maven, XML tabanlı bir yapılandırma dosyası olan pom.xml kullanarak projenin yapılandırmasını ve bağımlılıklarını yönetir.
 
-##- Mavenin avantajları nelerdir?
+---
+## Mavenin avantajları nelerdir?
 ```Shell
 ```
 Bağımlılık Yönetimi: Projeye eklenmesi gereken kütüphaneleri otomatik olarak indirir.
@@ -15,12 +16,15 @@ Otomatik Derleme: Projeyi derler (mvn compile).
 Test Çalıştırma: JUnit ve TestNG gibi test araçlarıyla testleri çalıştırır (mvn test).
 Paketleme: Projeyi jar veya war formatında paketler (mvn package).
 Dağıtım Yönetimi: Uygulamayı uzak sunuculara veya depolara gönderir (mvn deploy).
-
-##- Mavenin komutları nelerdir?
+---
+## Mavenin komutları nelerdir?
 ```Shell
 ```
 
-**- pom.xml dosyası nedir?
+---
+## pom.xml dosyası nedir?
+```Shell
+```
 pom.xml (Project Object Model) dosyası, Maven projelerinin merkezi yapılandırma dosyasıdır. Projenin bağımlılıklarını, sürüm bilgilerini, eklentilerini ve yapılandırmalarını içerir.
 
 Örnek bir pom.xml dosyası:
@@ -43,15 +47,18 @@ pom.xml (Project Object Model) dosyası, Maven projelerinin merkezi yapılandır
 </project>
 ```
 
-##- Java nedir?
+---
+## Java nedir?
 ```Shell
 ```
 
-##- Java özelikleri nedir?
+---
+## Java özelikleri nedir?
 ```Shell
 ```
 
-##- JDK nedir?
+---
+## JDK nedir?
 ```Shell
 ```
 JDK (Java Development Kit), Java ile uygulama geliştirmek için kullanılan geliştirme ortamıdır. İçerisinde:
@@ -62,8 +69,8 @@ Java Compiler (javac) (Java derleyicisi)
 Java Debugger (jdb) (Hata ayıklayıcı)
 Java API ve kütüphaneleri bulunur.
 
-
-##- JRE nedir?
+---
+## JRE nedir?
 ```Shell
 ```
 JRE (Java Runtime Environment), Java uygulamalarını çalıştırmak için gereken ortamdır. İçerisinde:
@@ -72,56 +79,59 @@ JVM (Java Virtual Machine) bulunur.
 Java Kütüphaneleri içerir.
 Çalışma zamanı dosyaları bulunur.
 
-##- JVM nedir?
+---
+## JVM nedir?
 ```Shell
 ```
 JVM (Java Virtual Machine), Java programlarını çalıştıran sanal bir makinedir. JVM sayesinde Java platform bağımsızdır çünkü Java kodu her işletim sisteminde çalışabilecek bayt koduna (.class dosyalarına) çevrilir.
 
-JVM’in Görevleri:
+**JVM’in Görevleri:**
 Bayt kodunu çalıştırır.
 Bellek yönetimini yapar (Garbage Collection).
 Çoklu iş parçacığını (multithreading) destekler.
 Platform bağımsızlığı sağlar.
 
-
-##- Compiler nedir?
+---
+## Compiler nedir?
 ```Shell
 ```
 Compiler (Derleyici), insan tarafından yazılan yüksek seviyeli programlama dillerini makine koduna veya bayt koduna dönüştüren bir programdır. Java’da derleyici javac olarak adlandırılır.
 
-Java'da Çalışma Süreci:
+**Java'da Çalışma Süreci:**
 
 Java kodu yazılır: MyClass.java
 Derleyici (javac) çalıştırılır: javac MyClass.java
 Bayt kodu (.class dosyası) oluşturulur: MyClass.class
 JVM bayt kodunu çalıştırır.
 
-##- Interpreter nedir? 
+---
+## Interpreter nedir? 
 ```Shell
 ```
 
-##- Data türleri nedir?
+---
+## Data türleri nedir?
 ```Shell
 ```
 
-##- primitive type nedir?
+## primitive type nedir?
 ```Shell
 ```
 
-##- wrapper type nedir?
+## wrapper type nedir?
 ```Shell
 ```
 
-##Stack Memory nedir?
-##Heap Memory nedir?
+## Stack Memory nedir?
+## Heap Memory nedir?
 ```Shell
 ```
 
-##Escape karakterler nedir?
+## Escape karakterler nedir?
 ```Shell
 ```
 
-##Scanner Class nedir?
+## Scanner Class nedir?
 ```Shell
 ```
 
