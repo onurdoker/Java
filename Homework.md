@@ -25,7 +25,7 @@ Dağıtım Yönetimi: Uygulamayı uzak sunuculara veya depolara gönderir (mvn d
 ## pom.xml dosyası nedir?
 ```Shell
 ```
-pom.xml (Project Object Model) dosyası, Maven projelerinin merkezi yapılandırma dosyasıdır. Projenin bağımlılıklarını, sürüm bilgilerini, eklentilerini ve yapılandırmalarını içerir.
+`pom.xml` (Project Object Model) dosyası, Maven projelerinin merkezi yapılandırma dosyasıdır. Projenin bağımlılıklarını, sürüm bilgilerini, eklentilerini ve yapılandırmalarını içerir.
 
 Örnek bir pom.xml dosyası:
 ```Shell
