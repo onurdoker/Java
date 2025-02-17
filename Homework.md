@@ -1,21 +1,22 @@
 # Sorular:
 
-
+---
 ## Maven nedir?
-```Shell
+```sh
+echo "Maven, Java projelerini oluşturmak, yönetmek ve otomatikleştirmek için kullanılan bir build automation (inşa otomasyonu) aracıdır. Apache \ tarafından geliştirilmiştir ve özellikle Java projelerinde bağımlılık yönetimi, derleme, test etme ve dağıtım süreçlerini kolaylaştırır. Maven, XML tabanlı bir yapılandırma dosyası olan pom.xml kullanarak projenin yapılandırmasını ve bağımlılıklarını yönetir."
 ```
-Maven, Java projelerini oluşturmak, yönetmek ve otomatikleştirmek için kullanılan bir build automation (inşa otomasyonu) aracıdır. Apache tarafından geliştirilmiştir ve özellikle Java projelerinde bağımlılık yönetimi, derleme, test etme ve dağıtım süreçlerini kolaylaştırır. Maven, XML tabanlı bir yapılandırma dosyası olan pom.xml kullanarak projenin yapılandırmasını ve bağımlılıklarını yönetir.
 
 ---
 ## Mavenin avantajları nelerdir?
 ```Shell
-```
 Bağımlılık Yönetimi: Projeye eklenmesi gereken kütüphaneleri otomatik olarak indirir.
 Proje Yapılandırması: Projeyi standart bir yapıda düzenler.
 Otomatik Derleme: Projeyi derler (mvn compile).
 Test Çalıştırma: JUnit ve TestNG gibi test araçlarıyla testleri çalıştırır (mvn test).
 Paketleme: Projeyi jar veya war formatında paketler (mvn package).
 Dağıtım Yönetimi: Uygulamayı uzak sunuculara veya depolara gönderir (mvn deploy).
+```
+
 ---
 ## Mavenin komutları nelerdir?
 ```Shell
@@ -24,11 +25,10 @@ Dağıtım Yönetimi: Uygulamayı uzak sunuculara veya depolara gönderir (mvn d
 ---
 ## pom.xml dosyası nedir?
 ```Shell
-```
 `pom.xml` (Project Object Model) dosyası, Maven projelerinin merkezi yapılandırma dosyasıdır. Projenin bağımlılıklarını, sürüm bilgilerini, eklentilerini ve yapılandırmalarını içerir.
 
 Örnek bir pom.xml dosyası:
-```Shell
+
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
