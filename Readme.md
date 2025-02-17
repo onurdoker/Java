@@ -1,8 +1,12 @@
 # IBB Java Core BootCamp Course
 [Github](https://github.com/onurdoker/Java.git )
 
+
+## İBB ve Ecodation'ın birlikte düzenlediği <strong>"Java ile Yazılım Geliştirme Bootcamp Programı"</strong>  bünyesinde **Sayın Hamit MIZRAK'ın** eğitmenliğinde yaplaşılan notlardan oluşturulmuştur.<br>
+Eğitimin orijinal linki: [Hamit MIZRAK](https://github.com/hamitmizrak/ibb_ecodation_javacore/tree/master
+
 ## Git
-```shell
+```
 git init
 git add .
 git commit -m "add massage"
@@ -16,7 +20,7 @@ tutorial: [Java Core](https://www.javatpoint.com/java-tutorial)<br>
 tutorial: [Java Core](https://www.w3schools.com/java/default.asp)
 
 ## Java Common Rules
-```shell
+```
 Class isimleri: PascalCase olmalıdır.
 Class isimleri: fiil olarak kullanılmaz. (mek-mak)
 Class: Javada 1 tane public class vardır. (inner class hariç)
